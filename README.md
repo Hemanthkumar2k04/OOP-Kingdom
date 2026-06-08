@@ -463,4 +463,4 @@ The kingdom's live state, story, and contributor hall of fame lives at:
 
 _Every entity deserves its own purpose. Every contributor deserves their credit. Build well._
 
-**⚔️ The kingdom awaits.**
+**⚔️ The kingdom awaits.**# CI verification PR — delete after checks pass
