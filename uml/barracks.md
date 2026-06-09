@@ -1,4 +1,4 @@
-# Market UML Diagram
+# Barracks UML Diagram
 
 ```mermaid
 classDiagram
