@@ -4,11 +4,8 @@
 ---
 
 ## 🎯 Which abstract class does this implement?
-- [ ] AbstractLumberyard
-- [ ] AbstractBarracks
-- [ ] AbstractBlacksmith
-- [ ] AbstractMarket
-- [ ] Other: ___________
+
+**Entity name:** ___________ (e.g., `Hospital`, `Library`, `Tavern`)
 
 ---
 
