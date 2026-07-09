@@ -59,3 +59,5 @@ AbstractBeaconTower <|-- BeaconTower
 - `getLastSignal()` returns the most recent signal type sent from the tower.
 - `getSignalCount()` returns the total number of signals sent from this tower.
 - The implementation follows the project's OOP conventions while maintaining a simple and focused design.
+
+K-13-XY
